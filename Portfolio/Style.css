@@ -1136,7 +1136,7 @@ iframe, video, img {
         padding: 0 !important;
         padding-inline-start: 0 !important; }
         .super-content .notion-collection-gallery.small .notion-collection-card .notion-collection-card__content img {
-          width: 2.5rem !important;
+          width: 1.5rem !important;
           height: auto !important;
           opacity: 0.3 !important; }
           .super-content .notion-collection-gallery.small .notion-collection-card .notion-collection-card__content img:hover {
