@@ -22,15 +22,15 @@
 
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
-    max-width: 860px; } }
+    max-width: 800px; } }
 
 @media (min-width: 1200px) {
   .container-lg, .container-md, .container-sm, .container {
-    max-width: 1160px; } }
+    max-width: 800px; } }
 
 @media (min-width: 1500px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1540px; } }
+    max-width: 800px; } }
 
 .row {
   display: flex;
